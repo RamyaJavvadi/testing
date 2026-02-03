@@ -48,7 +48,7 @@ All lessons are available on YouTube. Click any title to watch: editing to test 
   🔗 https://www.cursor.com/
 
 - 🤖 **ChatGPT**  
-  OpenAI’s conversational AI for engaging, human-like dialogue.  
+  OpenAI’s conversational AI for engaging, human-like dialogue.  "testing the new branch "
   🔗 https://chat.openai.com/
 
 ---
